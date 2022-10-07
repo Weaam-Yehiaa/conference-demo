@@ -1,0 +1,4 @@
+server:
+  port: 5000
+#we wrote it like that(adjust it) not server.port=5000 because YAML files aren't configured like property files
+#YAML files show hierarchy and nested properties fairly well
